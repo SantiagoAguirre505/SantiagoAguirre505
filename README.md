@@ -1,4 +1,4 @@
-
+<h1>Hello! 👋 I'm Santiago</h1>
 <h3>Cybersecurity Student | Software & Network Security</h3>
 
 <p>
@@ -7,12 +7,12 @@
 
 Cybersecurity student focused on software development, information security, networking, and automation.
 
-### 📌 Sobre mí
+### 📌 About me
 
-- 🌱 Actualmente estoy aprendiendo **AWS EC2 & Linux Server Administration**
-- 📫 Ubicación: **Argentina**
+- 🌱 I am currently learning **AWS EC2 & Linux Server Administration**
+- 📫 Location: **Argentina**
 
-### 🛠️ Lenguajes y Herramientas
+### 🛠️ Languages ​​and Tools
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -23,7 +23,7 @@ Cybersecurity student focused on software development, information security, net
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-### 🌐 Conéctate conmigo
+### 🌐 Connect with me
 
 <p>
   <a href="https://linkedin.com/in/santiago-aguirre-63ab99413" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -31,7 +31,7 @@ Cybersecurity student focused on software development, information security, net
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @aguirre_santiago43" />
 </p>
 
-### 📊 Estadísticas de GitHub
+### 📊 GitHub Statistics
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantiagoAguirre505&theme=github_dark" alt="Racha GitHub" />
