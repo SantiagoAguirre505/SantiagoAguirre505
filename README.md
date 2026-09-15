@@ -41,7 +41,8 @@ Cybersecurity student focused on software development, information security, net
 
 ### 📊 GitHub Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SantiagoAguirre505&show_icons=true&theme=tokyonight&hide_border=true" alt="Santiago Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoAguirre505&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
 </div>
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantiagoAguirre505&theme=github_dark" alt="Racha GitHub" />
