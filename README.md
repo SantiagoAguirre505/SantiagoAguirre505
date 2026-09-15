@@ -20,7 +20,9 @@ Cybersecurity student focused on software development, information security, net
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
 </p>
+
 ### 🛠️ Tools
+
 <p>
  <img src="https://img.shields.io/badge/GIT-E44D27?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
