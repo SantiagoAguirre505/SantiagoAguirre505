@@ -1,4 +1,4 @@
-<h1>¡Hola! 👋 Soy Santiago Aguirre</h1>
+
 <h3>Cybersecurity Student | Software & Network Security</h3>
 
 <p>
