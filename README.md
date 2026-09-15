@@ -32,11 +32,6 @@ Cybersecurity student focused on software development, information security, net
 ### 📊 Estadísticas de GitHub
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SantiagoAguirre505&show_icons=true&theme=github_dark&count_private=true" alt="Estadísticas" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoAguirre505&layout=compact&theme=github_dark" alt="Top Lenguajes" height="150" />
-</p>
-
-<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantiagoAguirre505&theme=github_dark" alt="Racha GitHub" />
 </p>
 
