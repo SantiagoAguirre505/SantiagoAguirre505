@@ -11,6 +11,11 @@ Cybersecurity student focused on software development, information security, net
 
 - 🌱 I am currently learning **AWS EC2 & Linux Server Administration**
 - 📫 Location: **Argentina**
+<h2>🗣️ Spoken Languages</h2>
+<p align="left">
+  <img src="https://img.shields.io/badge/Spanish-Native-107C41?style=for-the-badge" alt="Spanish Native" />
+  <img src="https://img.shields.io/badge/English-Intermediate-0078D4?style=for-the-badge" alt="English Intermediate" />
+</p>
 
 ### ⌨️ Languages  
 
@@ -40,11 +45,7 @@ Cybersecurity student focused on software development, information security, net
 </p>
 
 ### 📊 GitHub Statistics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SantiagoAguirre505&show_icons=true&theme=tokyonight&hide_border=true" alt="Santiago Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoAguirre505&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
-</div>
-<br />
+
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantiagoAguirre505&theme=github_dark" alt="Racha GitHub" />
 </p>
