@@ -12,20 +12,23 @@ Cybersecurity student focused on software development, information security, net
 - 🌱 I am currently learning **AWS EC2 & Linux Server Administration**
 - 📫 Location: **Argentina**
 
-### 🛠️ Languages ​​and Tools
+### 🛠️ Languages ​​and 
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/GIT-E44D27?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+ 
+</p>
+###  Tools
+<p>
+ <img src="https://img.shields.io/badge/GIT-E44D27?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 <img src="https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" alt="Linux Mint" />
-</p>
-
+  </p>
 ### 🌐 Connect with me
 
 <p>
